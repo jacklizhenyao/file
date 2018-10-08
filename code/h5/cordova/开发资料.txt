@@ -10,3 +10,32 @@ webpack
 router
 
 
+
+参考资料
+
+https://react.docschina.org/docs/hello-world.html
+:
+http://es6.ruanyifeng.com/
+:
+https://github.com/dvajs/dva-cli
+:
+https://dvajs.com/
+
+
+1、语法知识
+JS基本语法知识点
+ES6知识
+
+
+2、样式知识
+CSS
+CSS3
+
+
+3、框架知识
+react知识
+蚂蚁金服封装组件
+
+
+4、项目
+以往的项目
