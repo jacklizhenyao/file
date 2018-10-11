@@ -21,21 +21,28 @@ https://github.com/dvajs/dva-cli
 :
 https://dvajs.com/
 
+学习路线：
 
 1、语法知识
 JS基本语法知识点
 ES6知识
 
 
-2、样式知识
+2、框架知识
+react知识---》蚂蚁金服封装组件
+redux框架
+
+
+4、打包
+webpack
+
+
+3、样式知识
 CSS
 CSS3
 
-
-3、框架知识
-react知识
-蚂蚁金服封装组件
-
-
-4、项目
+5、项目
 以往的项目
+
+
+
